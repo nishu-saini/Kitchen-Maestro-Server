@@ -1,0 +1,143 @@
+[33mcommit f2eb24bc1e41ce8e1e36fa5c971f636a1b194bb5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Tue Nov 7 17:35:12 2023 +0530
+
+    established deployable environment
+
+[33mcommit 72d16d36f697f289b3d8e74d2f4053ec6e4a6579[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Tue Nov 7 02:22:02 2023 +0530
+
+    implemented filter feature to Recipe API
+
+[33mcommit 92ced384d1e52a7e6232611e8b01350c92c04020[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Tue Nov 7 00:24:26 2023 +0530
+
+    created image upload feature to Recipe API
+
+[33mcommit bf208a7b70b7b0915ed8f30f91c607762a2f77e2[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Mon Nov 6 22:38:19 2023 +0530
+
+    added ingredient functionalities to recipe API
+
+[33mcommit d085d776f80088b4ce9d42b26f4639052eac0d90[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Sun Nov 5 17:52:12 2023 +0530
+
+    implemented functionality of Tag API
+
+[33mcommit e216fa407a56e6b35eebe1abcb4c97ad5a7c7432[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Sat Nov 4 17:57:32 2023 +0530
+
+    implemented Tag model and Endpoints
+
+[33mcommit 1d8ac7bedbccbc3f1023125f2b3def5237fec654[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Sat Nov 4 16:31:05 2023 +0530
+
+    added recipe API and its functionalities
+
+[33mcommit cf288d27d43f2d81f237e9f203378a7294e94b86[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Sat Nov 4 00:55:50 2023 +0530
+
+    functionality added to user app
+
+[33mcommit c03d5704cac44d49b522c0fe7da09bc8f805cd9c[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Fri Nov 3 22:35:25 2023 +0530
+
+    Implemented authentication class to user view
+
+[33mcommit c819cb965a19fe20cf0e359e444b584036c4f12f[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Fri Nov 3 18:19:41 2023 +0530
+
+    added user app and created testcases for it
+
+[33mcommit 91301a342ecd13a765e8ae39a67ec4c49506f777[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Thu Nov 2 23:14:18 2023 +0530
+
+    defined swagger documentation
+
+[33mcommit 750d0d7d0e8a4916b67c8f6f0244d0c5449427c9[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Thu Nov 2 22:13:15 2023 +0530
+
+    modified user page for admin
+
+[33mcommit 6133eadae9236023b6e228e67b6723722a0516aa[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Thu Nov 2 18:17:55 2023 +0530
+
+    updated admin panel in django app
+
+[33mcommit 26606bee44a906a78755f3db1b6468e69e5cef8d[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Thu Nov 2 17:30:55 2023 +0530
+
+    removed flake8 from github actions
+
+[33mcommit b9f46f21e49ba4d5f30515b7fad55b8cb9686464[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Thu Nov 2 17:13:19 2023 +0530
+
+    flake8 error fixed
+
+[33mcommit d0280d04d140ae6053fdff298fa13139e002d54e[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Thu Nov 2 16:35:33 2023 +0530
+
+    implemented valid email and superuser functionality
+
+[33mcommit 8759f51bc4ccacda68415a6039f8378381709508[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Wed Nov 1 18:15:03 2023 +0530
+
+    created custom user model and user manager
+
+[33mcommit 444b345a3532c1c7b9dc56981942072631b7c304[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Tue Oct 31 12:07:53 2023 +0530
+
+    server error
+
+[33mcommit 077abd59c6e58601a7c56fbc1b2eba16c6298702[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Tue Oct 31 11:48:42 2023 +0530
+
+    handled database delayed error
+
+[33mcommit c45fc31085a5932d5d138809a8396215308db5c8[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Tue Oct 31 00:00:00 2023 +0530
+
+    postgresql databse implemented
+
+[33mcommit c5511730c94a1139be5c25c4a99a208ba1b80227[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Thu Oct 19 16:58:17 2023 +0530
+
+    error fixed in checks.yml
+
+[33mcommit 1d37509a5b7e5e15b0cdfe5c711cb9ddb87c51a4[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Thu Oct 19 16:54:05 2023 +0530
+
+    Added Github Actions
+
+[33mcommit 791a2c5627741b6617dbf55e9c76b64740d2fb31[m
+Author: quarnstric <nishusainialwar@gmail.com>
+Date:   Tue Oct 17 19:12:07 2023 +0530
+
+    Project Intialized
+
+[33mcommit 347aa5999f8748a8bb4bd72a751e623e48d0c920[m
+Author: Nishu Saini <57725190+nishu-saini@users.noreply.github.com>
+Date:   Sun Oct 15 17:29:09 2023 +0530
+
+    Initial commit
