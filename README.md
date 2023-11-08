@@ -101,15 +101,19 @@ This README file provides an overview of the key features and functionalities of
    pip install -r requirements.txt
    ```
 
-4. Build docker image:
+4. Make database migrations for Django project
 
-   - Note: This will also create the necessary migrations needed to create the database in Django.
+   ```bash
+   docker-compose run --rm app sh -c "python manage.py makemigrations"
+   ```
+
+5. Build docker image
 
    ```bash
    docker-compose build
    ```
 
-5. Create a superuser for the Django admin:
+6. Create a superuser for the Django admin:
 
    - Note: Remember email and password for admin route, otherwise need to make new admin user to access admin route.
 
@@ -117,13 +121,13 @@ This README file provides an overview of the key features and functionalities of
    docker-compose run --rm app sh -c 'python manage.py createsuperuser'
    ```
 
-6. To run unit tests, use the following command:
+7. To run unit tests, use the following command:
 
    ```bash
    docker-compose run --rm app sh -c 'python manage.py test'
    ```
 
-7. Start development server
+8. Start development server
 
    ```bash
    docker-compose up
