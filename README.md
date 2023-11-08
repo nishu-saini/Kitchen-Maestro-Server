@@ -109,8 +109,6 @@ This README file provides an overview of the key features and functionalities of
 
 5. Build docker image:
 
-   - Note: This will also create the necessary migrations needed to create the database in Django.
-
    ```bash
    docker-compose build
    ```
