@@ -1,4 +1,4 @@
-# Kitchen-Maestro-Server# Kitchen-Maestro-Server
+# Kitchen-Maestro-Server
 
 Kitchen-Maestro is a server-side application built using Django that serves as a virtual recipe box.
 
